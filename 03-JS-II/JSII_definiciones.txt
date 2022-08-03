@@ -1,0 +1,10 @@
+for:
+corresponde a un bucle que permite recorrer listas o colecciones de datos. Puede anidarse con varios del mismo y/o secuencias condicionales, pudiendo ejecutar o no un determinado código.
+
+Operadores de lógico
+&& - es un operador de lógico que detemina la igualdad de dos parámetros que se quieren comparar. Ambos deben ser Verdaderos, para que el resultado final sea Verdadero.
+
+|| - es un operador de lógico que permite determinar si un parametro u otro, cumple una determinada condicion (verdadera o falsa). Para obtener un verdadero, es necesario que ambos o alguno de ellos lo sea.
+
+
+! es una negación de un operador de lógico. Permite consultar si una determinada condicion es falsa, siendo su resultado real verdadero. Es decir, "si no es verdadero X" sucede un bloque de código o no.
